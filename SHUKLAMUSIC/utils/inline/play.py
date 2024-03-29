@@ -1,9 +1,9 @@
 import math
 from config import SUPPORT_CHAT, OWNER_USERNAME
 from pyrogram.types import InlineKeyboardButton
-from DAXXMUSIC import app
+from SHUKLAMUSIC import app
 import config
-from DAXXMUSIC.utils.formatters import time_to_seconds
+from SHUKLAMUSIC.utils.formatters import time_to_seconds
 
 
 def track_markup(_, videoid, user_id, channel, fplay):
