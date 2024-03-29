@@ -27,10 +27,7 @@ from strings import get_string
 
 
 
-YUMI_PICS = [
-"https://telegra.ph/file/17b260da6e918dbf69f55.png",
-
-]
+YUMI_PICS = ["https://telegra.ph/file/17b260da6e918dbf69f55.png"]
 
 
 
